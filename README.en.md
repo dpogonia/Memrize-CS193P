@@ -19,8 +19,8 @@ SwiftUI.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/Memrize.git
-cd Memrize
+git clone https://github.com/dpogonia/Memrize-CS193p.git
+cd Memrize-CS193p
 open Memrize.xcodeproj
 ```
 
